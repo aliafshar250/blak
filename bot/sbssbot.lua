@@ -210,6 +210,7 @@ function create_config( )
     enabled_plugins = {
     "SUDO",
     "boobs",
+    "plugins",
     "ingroup",
     "banhummer",
     "leave_ban"
