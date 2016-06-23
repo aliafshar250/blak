@@ -211,6 +211,8 @@ function create_config( )
     "SUDO",
     "boobs",
     "ingroup",
+    "banhummer",
+    "leave_ban"
     },
     sudo_users = {237008977},--Sudo users
     disabled_channels = {},
